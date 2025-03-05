@@ -1,0 +1,55 @@
+.shoppingCartIcon{
+    color: white;
+    font-size: 2rem !important;
+    cursor: pointer;
+}
+.cart-details{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    padding: 10px;
+}
+.closeIcon{
+    position: absolute;
+    cursor: pointer;
+    right: 5px;
+    top: -3px;
+}
+.cartGif{
+    width: 5rem;
+    padding: 10px;
+}
+.heading{
+    text-align: center;
+    font-weight: 600;
+    color: #9c27b0;
+}
+.card-style{
+    transition: box-shadow 0.5s ease-in-out;
+}
+.card-style:hover{
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15), 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+.addToCart{
+    color: white !important;
+    background-color: #9c27b0 !important;
+    font-weight: 600 !important;
+    width: 100%;
+}
+.itemDetails{
+    box-shadow: 0 4px 10px #0000001a, 0 -4px 10px #0000000d, 4px 0 10px #0000000d, -4px 0 10px #0000000d; 
+    border-radius: 10px;
+    padding: 10px;
+}
+.counterBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: fit-content;
+    cursor: pointer;
+    border: 1px solid #9c27b0;
+    border-radius: 8px;
+    background-color: #f8ebfa;
+}

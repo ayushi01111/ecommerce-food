@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "restaurantName": "Masala County",
+      "foodItem": "Paneer Butter Masala",
+      "imageKey": "punjabi",
+      "dishes": "North Indian, Biryani, Mughlai",
+      "orders": "1000+ orders placed from here recently",
+      "price": 350,
+      "ratings": "3.7",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "restaurantName": "Micro Burger",
+      "foodItem": "Burger",
+      "imageKey": "burger",
+      "dishes": "Burger",      
+      "orders": "2000+ orders placed from here recently",
+      "price": 60,
+      "ratings": "4.0",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "restaurantName": "La Milano Pizzeria",
+      "foodItem": "7 cheesy pizza",
+      "imageKey": "pizza",
+      "dishes": "Pizza, Fast Food, Pasta",
+      "orders": "700+ orders placed from here recently",
+      "price": 210,
+      "ratings": "4.2",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "restaurantName": "Momoman",
+      "foodItem": "Momos",
+      "imageKey": "momos",
+      "dishes": "Momos",
+      "orders": "500+ orders placed from here recently",
+      "price": 70,
+      "ratings": "4.0",
+      "quantity": 0
+    },
+    {
+        "id": 5,
+        "restaurantName": "Jassi De Parathe",
+        "foodItem": "Paneer Paratha",
+        "imageKey": "paratha",
+        "dishes": "North Indian",
+        "orders": "1500+ orders placed from here recently",
+        "price": 210,
+        "ratings": "4.0",
+        "quantity": 0
+      },
+      {
+        "id": 6,
+        "restaurantName": "Red Chilli Chinese",
+        "foodItem": "Noodles",
+        "imageKey": "noodles",
+        "dishes": "Wraps, Fast Food, Chinese",
+        "orders": "1200+ orders placed from here recently",
+        "price": 120,
+        "ratings": "3.9",
+        "quantity": 0
+      },
+      {
+        "id": 7,
+        "restaurantName": "Hocco Eatery",
+        "foodItem": "Pav Bhaji",
+        "imageKey": "pavBhaji",
+        "dishes": "Chole Bhatoore, North Indian, Fast Food",
+        "orders": "600 + order placed from here recently",
+        "price": 300,
+        "ratings": "3.9",
+        "quantity": 0
+    },
+    {
+        "id": 8,
+        "restaurantName": "Chai Wai",
+        "foodItem": "Tea",
+        "imageKey": "tea",
+        "dishes": "Tea, Coffee, Shake, Beverages",
+        "orders": "500 + order placed from here recently",
+        "price": 60,
+        "ratings": "3.9",
+        "quantity": 0
+    },
+    {
+        "id": 9,
+        "restaurantName": "HL Road",
+        "foodItem": "Wraps",
+        "imageKey": "wrap",
+        "dishes": "Frankie, Maggi, Burger, Sandwich, Fast Food",
+        "orders": "2500 + order placed from here recently",
+        "price": 120,
+        "ratings": "4.5",
+        "quantity": 0
+    }   
+  ]
+  
